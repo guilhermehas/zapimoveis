@@ -1,0 +1,71 @@
+Barro Preto
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++barro-preto/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"BARRO PRETO","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Barroca
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++barroca/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"BARROCA","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Belvedere
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++belvedere/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"BELVEDERE","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Buritis
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++buritis/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"BURITIS","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Carlos Prates
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++carlos-prates/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"CARLOS PRATES","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Carmo
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++carmo/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"CARMO","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Centro
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++centro/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"CENTRO","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Cidade Jardim
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++cid-jardim/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"CID JARDIM","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Cruzeiro
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++cruzeiro/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"CRUZEIRO","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Estoril
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++estoril/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"ESTORIL","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Floresta
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++floresta/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"FLORESTA","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Funcionarios
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++funcionarios/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"FUNCIONARIOS","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Gutierrez
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++gutierrez/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"GUTIERREZ","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Lourdes
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++lourdes/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"LOURDES","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Mangabeiras
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++mangabeiras/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"MANGABEIRAS","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Padre Eustaquio
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++padre-eustaquio/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"PADRE EUSTAQUIO","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Sagrada Familia
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++sagrada-familia/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"SAGRADA FAMILIA","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Santa Efigenia
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++sta-efigenia/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"STA EFIGENIA","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Santa Lucia
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++sta-lucia/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"STA LUCIA","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Santo Agostinho
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++sto-agostinho/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"STO AGOSTINHO","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Santo Antonio
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++sto-antonio/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"STO ANTONIO","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Savassi
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++savassi/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"SAVASSI","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Serra
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++serra/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"SERRA","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
+
+Sion
+https://www.zapimoveis.com.br/aluguel/conjunto-comercial-sala/mg+belo-horizonte++sion/#{"precominimo":"3000","precomaximo":"20000","parametrosautosuggest":[{"Bairro":"SION","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","paginaOrigem":"ResultadoBusca","semente":"1564042321","formato":"Lista"}
