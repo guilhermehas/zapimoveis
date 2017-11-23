@@ -54,6 +54,7 @@ def getPage(fname, url):
 
     messages = ""
     i = 1
+    messageAnt = []
     while True:
         print("\tPagina {} ".format(i),end="")
         try:
@@ -63,9 +64,13 @@ def getPage(fname, url):
 
             driver.get(urln)
             message = driver.execute_script(s2)
-
-            if not message:
+            
+            if not message or message in messageAnt:
                 break
+
+            messageAnt.append(message)
+            if len(messageAnt) > 2:
+                messageAnt.pop(0)
 
             messages += message
         except:
@@ -80,7 +85,8 @@ def getPage(fname, url):
         vet = []
         texts = text.splitlines()
         for it in texts:
-            vet.append(it.split(';'))
+            v1 = it.split(';')
+            vet.append(v1[(len(v1)>5):])
 
         return vet
 
