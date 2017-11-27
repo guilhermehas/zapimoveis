@@ -58,7 +58,7 @@ def getPage(fname, url):
     while True:
         print("\tPagina {} ".format(i),end="")
         try:
-            driver = webdriver.Chrome()
+            driver = webdriver.Firefox()
 
             urln = urlv[0]+str(i)+urlv[1]
 
@@ -69,7 +69,7 @@ def getPage(fname, url):
                 break
 
             messageAnt.append(message)
-            if len(messageAnt) > 2:
+            if len(messageAnt) > 5:
                 messageAnt.pop(0)
 
             messages += message
@@ -78,15 +78,22 @@ def getPage(fname, url):
             pass
         print()
         i += 1
-
         driver.close()
+
 
     def messagesToVet(text):
         vet = []
         texts = text.splitlines()
+        st = set()
         for it in texts:
             v1 = it.split(';')
-            vet.append(v1[(len(v1)>5):])
+            v1 = v1[(len(v1)>5):]
+            if ' a ' in v1[-1]:
+                v1[-1] = sum(map(int,v1[-1].split(' a ')))//2
+            vshape = tuple(v1)
+            if vshape not in st:
+                vet.append(v1)
+            st.add(vshape)
 
         return vet
 
