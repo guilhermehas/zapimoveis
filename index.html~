@@ -1,0 +1,10 @@
+<HTML>
+    <body>
+        <form action="/zap" method="post">
+            <textarea type="text" name="text" id="text">Barreiro
+https://www.zapimoveis.com.br/venda/apartamentos/mg+belo-horizonte++barreiro/#{"precomaximo":"150000","parametrosautosuggest":[{"Bairro":"BARREIRO","Zona":"","Cidade":"BELO HORIZONTE","Agrupamento":"","Estado":"MG"}],"pagina":"1","ordem":"Relevancia","paginaOrigem":"ResultadoBusca","semente":"1605662135","formato":"Lista"}</textarea>
+            <input type="submit" value="Submit">
+        </form>
+        <a href="http://ec2-18-231-92-14.sa-east-1.compute.amazonaws.com:8001"> Arquivos </a>
+    </body>
+</HTML>

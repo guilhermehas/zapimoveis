@@ -1,0 +1,9 @@
+<HTML>
+    <body>
+        <form action="/zap" method="post">
+            <textarea type="text"></textarea>
+            <input type="submit" value="Submit">
+        </form>
+        <a href="/files"> Arquivos </a>
+    </body>
+</HTML>
